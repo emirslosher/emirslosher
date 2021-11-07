@@ -44,7 +44,7 @@ This is the place where I opensource stuff and break things 🤣
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirslosher&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CSharpGVNG)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lefearr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
