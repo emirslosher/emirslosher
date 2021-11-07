@@ -44,7 +44,12 @@ This is the place where I opensource stuff and break things 🤣
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirslosher&layout=compact)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lefearr)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emirslosher&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emirslosher&repo=convoychat" />
+</a>
 
 
 
