@@ -43,6 +43,8 @@ This is the place where I opensource stuff and break things 🤣
 ![LeFearr's github stats](https://github-readme-stats.vercel.app/api?username=emirslosher&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emirslosher&layout=compact)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=emirslosher)]
+
 
 
 [instagram]: https://www.instagram.com/slosher.cs/
