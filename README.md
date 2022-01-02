@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://www.instagram.com/slosher.cs/) related to <b>Android application Development, Windows Forms, Android Custom Operating System Development, IOS Development, C#, Java, Javascript, Swift, Unity.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
-- My Dicord Slosher#1000
+- My Discord slosher#9709
 
 ### Connect with me:
 
