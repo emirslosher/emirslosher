@@ -48,5 +48,5 @@ This is the place where I opensource stuff and break things 🤣
 
 
 
-[instagram]: https://www.instagram.com/slosher.cs/
+[instagram]: https://www.instagram.com/slosherfps/
 [github]: https://github.com/emirslosher
